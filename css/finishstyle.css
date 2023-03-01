@@ -1,0 +1,22 @@
+#finishimage {
+    background-size: 93%;
+    margin-right: 100%;
+    margin-left: 60%;
+}
+
+#again {
+    cursor: pointer;
+    border-radius: 10px;
+    background-color: #426b3a;
+    font-family: Georgia;
+    color: rgb(235, 223, 223);
+    height: 100px;
+    width: 200px;
+    margin-top: 200px;
+    margin-left: -80px;
+    font-size: 30px;
+}
+
+#again:hover {
+    background-color: #6fa066;
+}

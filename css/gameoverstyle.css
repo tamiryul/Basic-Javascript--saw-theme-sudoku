@@ -1,0 +1,22 @@
+#gameoverimage {
+    background-size: 1700px 1000px;
+    background-repeat: no-repeat; 
+}
+
+#tryagain {
+    cursor: pointer;
+    border-radius: 10px;
+    background-color: #ffffff;
+    font-family: Georgia;
+    color: rgb(0, 0, 0);
+    height: 80px;
+    width: 200px;
+    font-size: 30px;
+    margin-top: 40%;
+    margin-left: 70%;
+}
+
+#tryagain:hover {
+    background-color: rgba(250, 8, 8, 0.4);
+    color: white;
+}
